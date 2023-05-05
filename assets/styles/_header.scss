@@ -1,0 +1,48 @@
+header{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .header_left{
+        padding-left: 50px;
+        .Logo{
+            width: 150px;
+            height: 50px;
+            
+        }
+    }
+    .header_center{
+        .header_ul{
+            width: 565px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            
+        }
+        
+        .header_a{
+            color: black;
+           padding: 10px;
+          
+        }
+    }
+    .header_right{
+        width: 300px;
+        display: flex;
+        align-items: center;
+        .header_right-box1{
+            width: 100px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+        }
+        .header_right-box2{
+            padding-right: 50px;
+            width: 170px;
+        }
+    }
+
+
+}

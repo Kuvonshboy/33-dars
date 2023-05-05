@@ -1,0 +1,55 @@
+.card_cantainer{
+   width: 100%;
+    margin-top: 50px;
+    padding-left: 50px;
+    .card_cantainer-tatil{
+        font-style: normal;
+        font-weight: 600;
+        font-size: 36px;
+        line-height: 40px;
+        margin-bottom: 50px;
+        
+        color: #1F2428;
+    }
+}
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    .cars{
+        margin: 10px;
+        width: 450px;
+        height: 200px;
+        background: #FFFFFF;
+        box-shadow: 0px 0px 70px rgba(138, 138, 138, 0.1);
+        border-radius: 16px;
+        
+        .Group{
+            margin-left: 25px;
+            margin-top: 25px;
+            width: 52px;
+            height: 52px;
+        }
+        .cars_tatil{
+            margin-top: 3px;
+            margin-left: 25px;
+            font-style: normal;
+            font-weight: 550;
+            font-size: 14px;
+            line-height: 20px;
+            
+            color: #1F2428;
+        }
+        .cars_subtatil{
+            padding-left: 25px;
+            margin-top: 5px;
+            width: 350px;
+            font-style: normal;
+            font-weight: 200;
+            font-size: 13px;
+            line-height: 14px;
+          
+            color: #1F2428;
+           
+        }
+    }
+}

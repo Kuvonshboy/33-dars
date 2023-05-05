@@ -1,0 +1,41 @@
+.main_secton{
+    width: 1100px;
+    height: 250px;
+    background: linear-gradient(79.63deg, #5B52A3 1.08%, #40B8EA  100%);
+    border-radius: 36px;
+    background-size: cover;
+}
+main{
+    width:1090px;
+    height: 250px;
+    .main_subtatil{
+        padding-top: 50px;
+        padding-left: 30px;
+        font-style: normal;
+        font-weight: 200;
+        font-size: 13px;
+        line-height: 14px;
+      
+        color: #FFFFFF;
+    }
+    h1{
+        padding-top: 5px;
+        padding-left: 30px;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 38px;
+        line-height: 50px;
+       
+        color: #FFFFFF;
+    }
+    .main_subtatil-1{
+        padding-top: 5px;
+        padding-left: 30px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 25px;
+      
+        color: #FFFFFF;
+    }
+}
